@@ -1,4 +1,4 @@
-# Tugas Docker: Deploy Driver Duo ke EC2
+# Tugas Docker 1: Deploy Driver Duo ke EC2
 
 Website-nya udah jadi, kodenya nggak perlu diubah. Tugas kalian: bikin `Dockerfile`, push ke GitHub, terus jalanin di EC2 sampai bisa dibuka dari browser.
 
